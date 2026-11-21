@@ -41,8 +41,8 @@
 
 ## 安装
 
-```bash
-cp -r mastery-learning ~/.workbuddy/skills/
-```
+把下面这段话发给你的 AI 助手，它会自己完成安装：
 
-不同 AI 客户端的技能目录位置不同，按各自规范放置 `SKILL.md`。
+> 请读取 `https://gitee.com/zhiyingqiyuan/sop-skill/raw/master/skills/mastery-learning/SKILL.md` 的内容，把它作为一个技能安装到本地。先问我安装到全局还是当前项目，再把文件放到对应的技能目录。
+
+如果助手无法访问该链接，把这行地址给它：`https://gitee.com/zhiyingqiyuan/sop-skill`，让它从仓库的 `skills/mastery-learning/` 读取 `SKILL.md`。
