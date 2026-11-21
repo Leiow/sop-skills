@@ -1,6 +1,6 @@
 # 目标锚定执行 SOP（goal-anchored-sop）
 
-推进项目 / 开发任务时，防止执行偏离目标、反复返工的一套执行纪律。与领域无关，可用于任何多步骤任务。与 `mastery-learning`（学知识）配对：那个管"怎么学透"，这个管"怎么把项目做对方向"。
+推进项目 / 开发任务时，防止执行偏离目标、反复返工的一套执行纪律。与领域无关，可用于任何多步骤任务。
 
 完整规则见 [SKILL.md](SKILL.md)。
 
@@ -39,6 +39,6 @@
 
 把下面这段话发给你的 AI 助手：
 
-> 请读取 `https://gitee.com/zhiyingqiyuan/sop-skill/raw/master/skills/goal-anchored-sop/SKILL.md` 的内容，把它作为一个技能安装到本地。先问我安装到全局还是当前项目，再把文件放到对应的技能目录。
+> 请读取 `https://raw.githubusercontent.com/Leiow/sop-skills/main/skills/goal-anchored-sop/SKILL.md` 的内容，把它作为一个技能安装到本地。先问我安装到全局还是当前项目，再把文件放到对应的技能目录。
 
-如果助手无法访问该链接，把这行地址给它：`https://gitee.com/zhiyingqiyuan/sop-skill`，让它从仓库的 `skills/goal-anchored-sop/` 读取 `SKILL.md`。
+如果助手无法访问该链接，把这行地址给它：`https://github.com/Leiow/sop-skills`，让它从仓库的 `skills/goal-anchored-sop/` 读取 `SKILL.md`。
