@@ -5,6 +5,7 @@
 ## 技能列表
 
 - [掌握式自适应学习](skills/mastery-learning/) —— 把任意知识拆成阶段化课程，诊断前置、学完按个人情况出题、掌握式推进、难度自适应。详见[技能说明](skills/mastery-learning/README.md)。
+- [目标锚定执行 SOP](skills/goal-anchored-sop/) —— 推进项目时防止偏离目标、反复返工：任务必须服务最终目标、禁止自评、独立评审最多 3 轮、问题分流。详见[技能说明](skills/goal-anchored-sop/README.md)。
 
 ## 安装
 
