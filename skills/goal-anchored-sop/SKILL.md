@@ -1,6 +1,6 @@
 ---
 name: goal-anchored-sop
-version: "1.0"
+version: "1.0.0"
 display_name: "目标锚定执行 SOP"
 display_name_en: "Goal-Anchored Execution SOP"
 description: "目标锚定式项目执行 SOP。当用户要推进一个项目/开发任务、担心执行偏离目标、遇到反复返工（修完又有问题、换模型又冒出新点、任务越做越偏）、或多步任务需要独立评审时使用。触发词：项目SOP、目标锚定、防返工、任务拆解、子Agent评审、执行偏离目标、以终为始、按目标推进、多步任务评审。"
