@@ -1,9 +1,13 @@
 ---
 name: goal-anchored-sop
+version: "1.0"
+display_name: "目标锚定执行 SOP"
+display_name_en: "Goal-Anchored Execution SOP"
 description: "目标锚定式项目执行 SOP。当用户要推进一个项目/开发任务、担心执行偏离目标、遇到反复返工（修完又有问题、换模型又冒出新点、任务越做越偏）、或多步任务需要独立评审时使用。触发词：项目SOP、目标锚定、防返工、任务拆解、子Agent评审、执行偏离目标、以终为始、按目标推进、多步任务评审。"
+description_zh: "推进项目或开发任务时，防止执行偏离目标、反复返工的执行纪律。围绕目标冻结、独立评审、目标锚高于规划三条铁律，用六步流程把最终目标重新钉成唯一准绳，适合任何多步骤任务。"
+description_en: "An execution discipline that keeps projects and development tasks anchored to their goals and prevents rework. Built on three rules: goals are set and frozen by the human, executors never review their own work, and the goal outranks the plan. A six-step process makes the final goal the single yardstick for any multi-step task."
 license: Apache-2.0
 metadata:
-  version: "1.0"
   origin: "2026-11 从自循环调度中枢开发返工复盘中抽象出的通用项目执行法。"
 ---
 
